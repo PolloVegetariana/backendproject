@@ -20,7 +20,7 @@
 </head>
 <body>
 <div class="header">
-	<h3>Twitter feed</h3>
+	<h3>YOLO I LIKE CATS</h3>
 	<p class="right"><?php echo $user['name'] ?></p>
 	<a href="logout.php">Logout</a>
 </div>
