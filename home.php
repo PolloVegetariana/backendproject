@@ -15,7 +15,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Timeline</title>
+	<title> Timeline for the Real Estate Investor App!!</title>
 	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
