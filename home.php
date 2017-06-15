@@ -25,7 +25,7 @@
 	<a href="logout.php">Logout</a>
 </div>
 	<div class="post"> 
-		<h3> Post a tweet</h3>
+		<h3> Check the value of the property</h3>
 		<form action="process.php" method="POST">
 		<textarea name="tweet" placeholder="send tweet"></textarea>
 		<input type="hidden" name="form_source" value="tweet">
